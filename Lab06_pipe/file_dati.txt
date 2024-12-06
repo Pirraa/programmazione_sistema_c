@@ -1,0 +1,4 @@
+194268,sistemi operativi,10,28
+193456,linguaggi,9,25
+18759,reti,10,5
+18759,calcolo,10,18
