@@ -1,0 +1,4 @@
+1230,1430,20241212,reti,conti
+1430,1530,20241212,linguaggi,riguzzi
+1530,1630,20241212,sistemi,giannelli
+1630,1830,20241212,calcolo,zanghiratti
