@@ -1,0 +1,7 @@
+vm-126,contabilità,x1.large,operativa
+vm-128,bilanci,x3.large,operativa
+vm-127,contabilità,x2.large,inattiva
+vm-127,bilanci,x2.large,inattiva
+vm-128,contabilità,x3.large,operativa
+vm-126,bilanci,x1.large,operativa
+
